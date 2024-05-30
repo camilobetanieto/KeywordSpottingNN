@@ -4,3 +4,5 @@ This work explores different network architectures for keyword spotting (KWS), w
 ## Repository description
 - A PDF report with a complete explanation of what was done.
 - The Jupyter Notebook with the full implementation.
+
+This was the final project for the [Deep Learning and Human Data Analytics](https://en.didattica.unipd.it/off/2022/LM/SC/SC2377/002PD/SCQ2101305/N0) course of my master's degree.
